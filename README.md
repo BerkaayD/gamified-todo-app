@@ -1,4 +1,5 @@
-# Gamified TODO
+# Gamified TODO App
+https://berkay-gamified-todoapp.netlify.app/
 
 React, TypeScript ve TailwindCSS ile hazirlanmis basit bir XP tabanli TODO uygulamasi.
 
