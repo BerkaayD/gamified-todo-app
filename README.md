@@ -36,4 +36,5 @@ Bu ornek proje hizli MVP icin veriyi `localStorage` uzerinde tutar. MSSQL ekleme
 - `Tasks`: gorev basligi, zorluk, XP, tamamlanma durumu, kullanici iliskisi
 - `TaskCompletions`: hangi gorevin hangi gun tamamlandigi
 
-Frontend tarafindaki `tasks` ve `stats` state'leri daha sonra bu API'den okunup guncellenecek sekilde ayrilmaya uygundur.
+<img width="1855" height="771" alt="Ekran görüntüsü 2026-07-16 141213" src="https://github.com/user-attachments/assets/ea85ebdb-b59d-4217-a0da-91d9a5e0a08d" />
+
