@@ -1,7 +1,7 @@
 # Gamified TODO App
 https://berkay-gamified-todoapp.netlify.app/
 
-React, TypeScript ve TailwindCSS ile hazirlanmis basit bir XP tabanli TODO uygulamasi.
+Software Persona bünyesinde yapmış olduğum React, TypeScript ve TailwindCSS ile hazırlanmış basit bir XP tabanlı TODO uygulamadır.
 
 ## Ozellikler
 
